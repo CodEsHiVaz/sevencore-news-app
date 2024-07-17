@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ee13ef2.css",
-    "main.js": "/static/js/main.428e1f63.js",
-    "static/js/453.08c78f33.chunk.js": "/static/js/453.08c78f33.chunk.js",
-    "index.html": "/index.html",
-    "main.9ee13ef2.css.map": "/static/css/main.9ee13ef2.css.map",
-    "main.428e1f63.js.map": "/static/js/main.428e1f63.js.map",
-    "453.08c78f33.chunk.js.map": "/static/js/453.08c78f33.chunk.js.map"
+    "main.css": "/sevencore-news-app/static/css/main.9ee13ef2.css",
+    "main.js": "/sevencore-news-app/static/js/main.6b88ce98.js",
+    "static/js/453.08c78f33.chunk.js": "/sevencore-news-app/static/js/453.08c78f33.chunk.js",
+    "index.html": "/sevencore-news-app/index.html",
+    "main.9ee13ef2.css.map": "/sevencore-news-app/static/css/main.9ee13ef2.css.map",
+    "main.6b88ce98.js.map": "/sevencore-news-app/static/js/main.6b88ce98.js.map",
+    "453.08c78f33.chunk.js.map": "/sevencore-news-app/static/js/453.08c78f33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ee13ef2.css",
-    "static/js/main.428e1f63.js"
+    "static/js/main.6b88ce98.js"
   ]
 }
